@@ -1,5 +1,3 @@
-Certainly! Here's an example README file for the Image Carousel project:
-
 ```markdown
 # Image Carousel
 
@@ -61,14 +59,4 @@ The Image Carousel component can be customized to match your project's requireme
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to the Image Carousel project, please follow the guidelines in [CONTRIBUTING.md](link-to-contributing-file).
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file).
-
-```
-
-Remember to replace the placeholder content with the actual paths or URLs of your images and update the links to the contributing guidelines and license file.
-
-I hope this helps you create a README file for your Image Carousel project! Let me know if you have any further questions.
+Contributions are welcome!
